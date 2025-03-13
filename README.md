@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Đức Toàn</h1>
 <h3 align="center">Tốt nghiệp TĐH Đại học Mở HN</h3>
 
-- 🌱 Hiện tại đang tìm hiểu về **Spring Boot , Angular**
+- 🌱 Ngôn ngữ : Nodejs , Typescript , Java Spring Boot
 
-- 📫 Liên lạc với tôi **toanphich2001@gmail.com**
+- ⭐️ Có kiến thức về Cloud: AWS, ..
+   
+- 📫 Liên lạc với tôi **ngductoan1007@gmail.com**
 
-- 📄 Kinh nghiệm và trải nghiệm [Thực tập sinh](Thực tập sinh)
+- 📄 Back-End Developer(1 exp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
